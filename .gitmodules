@@ -1,3 +1,3 @@
 [submodule "MVZ2ModManager"]
 	path = MVZ2ModManager
-	url = ./MVZ2ModManager
+	url = git@github.com:QoZnoS/MVZ2ModManager.git
